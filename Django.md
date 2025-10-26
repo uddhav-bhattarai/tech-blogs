@@ -1,14 +1,19 @@
 # Django REST Framework: A Complete Deep Dive
 
 ## Table of Contents
-1. [Introduction & Philosophy](#introduction)
-2. [Architecture Overview](#architecture)
+1. [Introduction & Philosophy](#introduction--philosophy)
+2. [Architecture Overview](#architecture-overview)
 3. [Request-Response Flow](#request-response-flow)
-4. [Core Components Deep Dive](#core-components)
+4. [Core Components Deep Dive](#core-components-deep-dive)
 5. [Socratic Q&A](#socratic-qa)
-6. [Feynman-Style Explanations](#feynman-explanations)
-7. [Senior Developer Insights](#senior-insights)
-8. [Advanced Patterns & Best Practices](#advanced-patterns)
+6. [Feynman-Style Explanations](#feynman-style-explanations)
+7. [Senior Developer Insights](#senior-developer-insights)
+8. [Advanced Patterns & Best Practices](#advanced-patterns--best-practices)
+9. [Architecture Diagrams](#architecture-diagrams)
+10. [Real-World Example: Blog API](#real-world-example-blog-api)
+11. [Summary: Key Takeaways](#summary-key-takeaways)
+12. [Conclusion](#conclusion)
+13. [Additional Resources](#additional-resources)
 
 ---
 
